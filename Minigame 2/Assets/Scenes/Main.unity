@@ -130,7 +130,7 @@ GameObject:
   m_Component:
   - component: {fileID: 9200121}
   - component: {fileID: 9200122}
-  m_Layer: 20
+  m_Layer: 21
   m_Name: Shadow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -307,7 +307,7 @@ GameObject:
   - component: {fileID: 41926931}
   - component: {fileID: 41926930}
   - component: {fileID: 41926929}
-  m_Layer: 5
+  m_Layer: 22
   m_Name: HealthText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -444,7 +444,7 @@ GameObject:
   - component: {fileID: 69794108}
   - component: {fileID: 69794107}
   - component: {fileID: 69794106}
-  m_Layer: 5
+  m_Layer: 21
   m_Name: HealthText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8359,7 +8359,7 @@ GameObject:
   - component: {fileID: 461832460}
   - component: {fileID: 461832459}
   - component: {fileID: 461832458}
-  m_Layer: 5
+  m_Layer: 22
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8461,7 +8461,7 @@ GameObject:
   - component: {fileID: 490505384}
   - component: {fileID: 490505383}
   - component: {fileID: 490505382}
-  m_Layer: 5
+  m_Layer: 21
   m_Name: HealthText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8740,7 +8740,7 @@ GameObject:
   - component: {fileID: 616295012}
   - component: {fileID: 616295011}
   - component: {fileID: 616295010}
-  m_Layer: 20
+  m_Layer: 21
   m_Name: Prop (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9033,7 +9033,7 @@ GameObject:
   - component: {fileID: 654587897}
   - component: {fileID: 654587896}
   - component: {fileID: 654587895}
-  m_Layer: 5
+  m_Layer: 21
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18097,7 +18097,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1713634573}
   - component: {fileID: 1713634574}
-  m_Layer: 20
+  m_Layer: 21
   m_Name: Shadow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18855,7 +18855,7 @@ GameObject:
   - component: {fileID: 1777209850}
   - component: {fileID: 1777209849}
   - component: {fileID: 1777209848}
-  m_Layer: 5
+  m_Layer: 21
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19060,7 +19060,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2020028450}
   - component: {fileID: 2020028451}
-  m_Layer: 20
+  m_Layer: 22
   m_Name: Shadow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19155,7 +19155,7 @@ GameObject:
   - component: {fileID: 2024001663}
   - component: {fileID: 2024001662}
   - component: {fileID: 2024001661}
-  m_Layer: 20
+  m_Layer: 21
   m_Name: Prop (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19413,7 +19413,7 @@ GameObject:
   - component: {fileID: 2074045293}
   - component: {fileID: 2074045292}
   - component: {fileID: 2074045291}
-  m_Layer: 20
+  m_Layer: 22
   m_Name: Prop (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}

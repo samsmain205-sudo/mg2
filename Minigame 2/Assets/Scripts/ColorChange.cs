@@ -38,13 +38,13 @@ public class ColorChange : MonoBehaviour
         {
             gameObject.SetActive(false);
         }
-        else if (health == 3){
+        if (health == 3){
             r = 1.0f;
         }
-        else if (health == 2){
+        if (health == 2){
             r = 0.5f;
         }
-        else if (health == 1){
+        if (health == 1){
             r = 0.0f;
         }
         
